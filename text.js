@@ -9,3 +9,5 @@ console.log("I am fine");
 console.log("I am learning git");
 console.log("It's intresting");
 
+console.log("Please learn JavaScript");
+console.log("I love coding");
