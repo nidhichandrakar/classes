@@ -5,3 +5,6 @@ console.log("Hello, Good Morning!");
 console.log("How are you?");
 console.log("Give me some code");
 console.log("I am fine");
+
+console.log("One");
+console.log("Two");
